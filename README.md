@@ -1,4 +1,4 @@
-# Anime-titlovi
+# Anime titlovi
 
 ## Table of contents
 1. [.ass VS .srt format](#.assVS.srtformat)
